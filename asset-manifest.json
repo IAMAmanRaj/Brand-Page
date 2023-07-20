@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/Brand-Page/static/css/main.87f49424.css",
-    "main.js": "/Brand-Page/static/js/main.eb3edef8.js",
+    "main.js": "/Brand-Page/static/js/main.8dc4fa0c.js",
+    "static/media/shoe_image.png": "/Brand-Page/static/media/shoe_image.3b688f021f11329b475e.png",
     "index.html": "/Brand-Page/index.html",
     "main.87f49424.css.map": "/Brand-Page/static/css/main.87f49424.css.map",
-    "main.eb3edef8.js.map": "/Brand-Page/static/js/main.eb3edef8.js.map"
+    "main.8dc4fa0c.js.map": "/Brand-Page/static/js/main.8dc4fa0c.js.map"
   },
   "entrypoints": [
     "static/css/main.87f49424.css",
-    "static/js/main.eb3edef8.js"
+    "static/js/main.8dc4fa0c.js"
   ]
 }
