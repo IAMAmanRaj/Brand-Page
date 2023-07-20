@@ -1,8 +1,9 @@
-const Navigation = () => {
+import brand_logo from "./brand_logo.png";
+function Navigation() {
   return (
     <nav className="container">
       <div className="logo">
-        <img src="/images/brand_logo.png" alt="logo" />
+        <img src={brand_logo} alt="logo" />
       </div>
       <div>
         <ul className="list">
@@ -15,5 +16,5 @@ const Navigation = () => {
       <button className="login">login</button>
     </nav>
   );
-};
+}
 export default Navigation;
